@@ -1,5 +1,8 @@
-# rymoh
+In the name of Allah, the most gracious, the most merciful.
 
-All you need to develop modern web applications and websites faster and more beautiful.
+👋 Hi!
+
+Develop modern web applications and websites safer, faster and more beautiful with rymoh tools.
 
 ☕ Develop, Enjoy!
+
